@@ -1,2 +1,2 @@
 # Biblioteca
-Un Sistema di Gestione Biblioteca è un’applicazione software enterprise che consente di amministrare in modo centralizzato tutte le attività di una o più biblioteche.
+Un Sistema di Gestione Biblioteca è un’applicazione software enterprise che consente di amministrare in modo centralizzato tutte le attività di una o più biblioteche: catalogazione, circolazione, acquisizioni, gestione utenti, statistiche e interfacce pubbliche e di staff. Il cuore del sistema è un database relazionale che memorizza ogni elemento (libri, riviste, utenti, prestiti) tramite identificativi univoci, permettendo un monitoraggio puntuale delle risorse e delle operazioni
